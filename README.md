@@ -1,4 +1,4 @@
-# Hi there, I'm Tarek Mohamed
+# Hi there, I'm  Mohamed
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
@@ -10,7 +10,7 @@
 
 ## About Me
 
-- Computer Science student at Benha University — Faculty of Computers & Artificial Intelligence
+-  Science student at AinSham University — Faculty of Computers & Artificial Intelligence
 - .NET Backend Developer
 - Teaching Assistant / Instructor — C#, SQL Server, ASP.NET Core MVC, LINQ
 - Currently learning C# & building real-world projects
