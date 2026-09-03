@@ -62,7 +62,7 @@ Always learning, always building.
 ## Contact & Social
 
 - Email: mohmedwaled589@gmail.com
-- LinkedIn:[https://github.com/tareqmohamed1/SchoolManagement.API)
+- LinkedIn:[https://www.linkedin.com/in/mohamed-waled-a9b857362?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 
 ---
