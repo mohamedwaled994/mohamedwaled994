@@ -10,9 +10,9 @@
 
 ## About Me
 
--  Science student at AinSham University — Faculty of Computers & Artificial Intelligence
+-  Science student at AinSham University — Faculty of Computers Scince & Satistics
 - .NET Backend Developer
-- Teaching Assistant / Instructor — C#, SQL Server, ASP.NET Core MVC, LINQ
+- Teaching  — C#, SQL Server, ASP.NET Core MVC, LINQ
 - Currently learning C# & building real-world projects
 - Interested in Algorithms & Problem Solving
 - Open to Junior / Mid-level .NET Backend roles
@@ -61,8 +61,9 @@ Always learning, always building.
 
 ## Contact & Social
 
-- Email: tarekmohamed09e4@gmail.com
-- LinkedIn: [Tarek Mohamed](https://www.linkedin.com/in/tarek-mohamed-3127522b0)
+- Email: mohmedwaled589@gmail.com
+- LinkedIn:[https://github.com/tareqmohamed1/SchoolManagement.API)
+
 
 ---
 
